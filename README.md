@@ -2,13 +2,13 @@
 This validation tool is being devloped to help validate travel and traffic data in and between European countries.
 
 ### Current features
-Validate xml-schemas
-Validate xml-files
-Terminal output
-Logfile (txt)
-Detailed report (json,xml)
-Basic rules engine
-Telemetry (to better understand users and use cases)
+* Validate xml-schemas
+* Validate xml-files
+* Terminal output
+* Logfile (txt)
+* Detailed report (json,xml)
+* Rules engine (to validate schemas and traffic data)
+* Telemetry (to better understand users and use cases)
 
 ### Upcoming features
 National profiles
