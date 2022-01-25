@@ -29,6 +29,6 @@ The [Data4PT](https://data4pt-project.eu) project aims, among other objectives, 
 
 ### Roadmap
 
-<img width="795" alt="image" src="https://user-images.githubusercontent.com/306816/150817717-46793ec0-e0d2-4a6f-a236-3b4f5ffd7840.png">
+<img width="1057" alt="image" src="https://user-images.githubusercontent.com/306816/150941869-94473448-06d0-46b3-ae6f-284dbc6cf12c.png">
 
 ### Give feedback
